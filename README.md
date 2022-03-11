@@ -4,8 +4,8 @@ Lag et register for motorvogner. Det skal være mulig å lagre motorvogner (bile
 
 
 # Hva er forskjellen mellom GET og POST Method i HTML
- 1.GET-metoden plasserer parameterne inne i URI mens POST-metoden legger parametrene inn i kroppen.
- 2.GET brukes i hovedsak til å hente informasjonen. I motsetning til, er formålet med POST-metoden å oppdatere dataene.
+ ### 1.GET-metoden plasserer parameterne inne i URI mens POST-metoden legger parametrene inn i kroppen.
+ ### 2.GET brukes i hovedsak til å hente informasjonen. I motsetning til, er formålet med POST-metoden å oppdatere dataene.
 
 
 POST-spørringsresultater kan ikke bokmerkes, mens GET-spørringsresultater kan bokmerkes fordi det eksisterer i form av URL.
